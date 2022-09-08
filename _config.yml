@@ -1,1 +1,4 @@
-remote_theme:  daattali/beautiful-jekyll 
+remote_theme:  samarsault/plainwhite-jekyll
+plainwhite:
+  dark_mode: true
+  search: true

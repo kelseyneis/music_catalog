@@ -1,13 +1,8 @@
 ---
-
 layout: post
-
 title: "Fontaines D.C."
-
 genre: post-punk
-
 discovery_date: 8/17/22
-
 ---
 
 I heard about Fontaines D.C. while I was in Galway at a Lightning Bolt concert at Roisin Dubh. A very tall Finnish guy asked me what Irish bands I liked. I told him about The Frames, and he asked if I knew Fontaines D.C. 

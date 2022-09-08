@@ -1,13 +1,8 @@
 ---
-
 layout: post
-
 title: "Lightning Bolt"
-
 genre: noise
-
 discovery_date: 8/17/22
-
 ---
 
 I found Lightning Bolt when I was in Galway, Ireland. They played at Róisín Dubh with the Belfast opening band, Enola Gay. I was there with a group from the ESSLLI summer school. After the opening band finished, someone pointed out the drumset on the floor at the opposite wall from the stage and said they were going to play there. I thought he was joking at first. Now I know this is called a [mop bucket performance](https://www.instagram.com/p/ChXipNiJk3V/).
