@@ -1,8 +1,8 @@
 remote_theme:  ngzhio/jekyll-theme-hamilton
 jekyll-theme-hamilton:
-  title: Music Catalog
   skin: midnight
-  author: Kelsey Neis
-  email: garmoshka.chornaya@gmail.com
-  location: Minneapolis, MN
-  subscribe: false
+title: Music Catalog
+author: Kelsey Neis
+email: garmoshka.chornaya@gmail.com
+location: Minneapolis, MN
+subscribe: false
