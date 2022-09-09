@@ -1,6 +1,9 @@
+plugins:
+  - jekyll-theme-hamilton
+
 remote_theme:  ngzhio/jekyll-theme-hamilton
-hamilton:
-  skin: midnight
+
+skin: midnight
 title: Music Catalog
 author: Kelsey Neis
 email: garmoshka.chornaya@gmail.com
